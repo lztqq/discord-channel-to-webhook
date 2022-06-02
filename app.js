@@ -1,5 +1,3 @@
-import { Client, WebhookClient, Intents } from "discord.js";
-
 const { Client, WebhookClient, Intents } = require("discord.js")
 require("dotenv").config()
 
